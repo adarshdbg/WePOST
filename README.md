@@ -1,6 +1,3 @@
-# React RBAC tutorial
-
-Full tutorial originally appeared and is available on Auth0's blog: [How to Add Role-Based Access Control (RBAC) to React Apps](https://auth0.com/blog/role-based-access-control-rbac-and-react-apps/)
 
 ## Requirements
 * Node + npm
