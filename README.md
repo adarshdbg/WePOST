@@ -43,7 +43,7 @@ $ npm start
 function (user, context, callback) {
   user.app_metadata = user.app_metadata || {};
 
-  if (user.email === 'bruno.krebs@auth0.com') {
+  if (user.email === 'adarsh@gmail.com') {
     user.app_metadata.role = 'admin';
   } else {
     user.app_metadata.role = 'writer';
